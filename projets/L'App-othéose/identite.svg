@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" role="img" aria-labelledby="title desc">
+  <title id="title">L'App-othéose</title>
+  <desc id="desc">Marque typographique  fond noir, papier ivoire, un seul or.</desc>
+  <rect width="1280" height="720" fill="#0B0B0C"/>
+  <line x1="96" y1="360" x2="176" y2="360" stroke="#C4A574" stroke-width="1"/>
+  <text x="200" y="374" fill="#F4F1EA" font-family="Didot, 'Bodoni MT', 'Playfair Display', Georgia, serif" font-size="56" letter-spacing="10">L'APP-OTHÉOSE</text>
+  <text x="200" y="428" fill="#C4A574" font-family="Georgia, 'Times New Roman', serif" font-size="13" letter-spacing="8">HAUTE DÉFINITION APPLIQUÉE</text>
+</svg>
