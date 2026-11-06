@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" role="img" aria-labelledby="title desc">
+  <title id="title">Plus simple</title>
+  <desc id="desc">Un point. Un silence. Rien d'autre.</desc>
+  <rect width="800" height="800" fill="#FAFAF8"/>
+  <circle cx="400" cy="400" r="6" fill="#1A1A1A"/>
+</svg>
